@@ -1,6 +1,6 @@
 MM3D
 ====
-Fork of Misfit Model 3D.
+Fork of [Misfit Model 3D](http://www.misfitcode.com/misfitmodel3d/).
 
 Contribute
 ----------
