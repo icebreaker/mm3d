@@ -40,6 +40,10 @@
 #include <ctype.h>
 #include <errno.h>
 
+#ifndef WIN32
+	#include <unistd.h>
+#endif
+
 using std::string;
 
 void replaceSlash( char * str )
