@@ -1,0 +1,11 @@
+stamp-h1
+Makefile
+config.h
+config.log
+config.status
+*.o
+*.moc.cc
+*.base.h
+.deps
+*.a
+src/mm3d
